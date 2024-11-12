@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/42ee67ef-2ba0-462e-bdce-a0ff847535cd
 
 ## Getting Started
 
-To play the game, download and run the executable file **ConFPS.exe** from the root directory.
+To play the game, download and run the executable file [ConFPS.exe](./ConFPS.exe) from the root directory.
 
 ### Prerequisites
 
